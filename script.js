@@ -36,7 +36,7 @@ function originalText() {
 
     let img = document.createElement('img');
     img.classList.add('encript-img');
-    img.src = '../assets/img/lupa.png';
+    img.src = 'assets/img/lupa.png';
     sectionEncript.appendChild(img);
 
     let title = document.createElement('h2');
