@@ -16,5 +16,5 @@
 <h2>Características</h2>
 <ul>
   <li>Permite encriptar y desencriptar texto</li>
-  <li>Permite co´piar los mensajes encriptadoes y desencriptados</li>
+  <li>Permite copiar los mensajes encriptados y desencriptados</li>
 </ul>
